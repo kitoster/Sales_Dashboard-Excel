@@ -1,5 +1,4 @@
 # Sales_Dashboard-Excel
-
 An interactive, dynamic dashboard for Excel using example data of a fast food chain in South America. 
 
 The following shows the data's KPIs, sales, and customer satisfaction numbers. 
